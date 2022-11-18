@@ -1,4 +1,4 @@
-# Hello page
+# Hello
 
 Let's get started with Docus.
 
