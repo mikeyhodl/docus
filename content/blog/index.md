@@ -1,4 +1,4 @@
-# Blog
+# Start
 
 Let's get started with Docus.
 
