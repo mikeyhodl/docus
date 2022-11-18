@@ -1,4 +1,4 @@
-# Get started
+# Hello page
 
 Let's get started with Docus.
 
