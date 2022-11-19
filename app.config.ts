@@ -19,7 +19,7 @@ export default defineAppConfig({
     },
     header: {
       title: false,
-      logo: false,
+      logo: true,
       showLinkIcon: false
     },
     footer: {
