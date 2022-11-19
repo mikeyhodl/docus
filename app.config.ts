@@ -1,8 +1,8 @@
 export default defineAppConfig({
   docus: {
     title: 'Docus',
-    description: 'My Docus Project',
-    url: 'http://docus.dev',
+    description: 'S3 documentation',
+    url: 'docs.owino.xyz',
     image: '/social-card-preview.png',
     socials: {
       twitter: '@mikeyhodl',
