@@ -11,7 +11,7 @@ export default defineAppConfig({
     github: {
       root: 'content',
       edit: true,
-      contributors: false
+      contributors: true
     },
     aside: {
       level: 1,
